@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Data Binding</string>
+    <string name="one_argument">This had one argument! %s</string>
+</resources>
